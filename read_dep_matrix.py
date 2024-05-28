@@ -1,5 +1,3 @@
-# Copyright (c) 2024 anonymous authors (identities withheld for peer-review)
-
 import numpy as np
 from operator import itemgetter
 from dependency.dep_parsing import *
